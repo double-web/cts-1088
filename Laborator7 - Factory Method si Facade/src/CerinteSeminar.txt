@@ -1,0 +1,1 @@
+Pentru a permite altor companii sau jucatorilor sa dezvolte solutii externe care sa se conecteze la joc trebuie dezvoltata o librarie (un API).
